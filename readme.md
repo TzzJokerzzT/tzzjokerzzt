@@ -1,11 +1,11 @@
 # <h1 align="center"><b>Hi , I'm Alexis Buelvas </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-🧤 I'm React Front End web and developer with a passion on selflearning, video games, anime and music<br>📱 shoot me a Email or add me on linkedin, you can follow me on Twitter or Instagram<br/>
-Email: Alexjesus-4856@hotmail.com
+🧤 I'm a passionate Frontend Developer with over 6 years of experience creating dynamic, user-friendly web applications. I specialize in technologies like HTML, CSS, JavaScript, and frameworks like Angular and React. In addition to my love for coding, I'm an avid anime enthusiast and a dedicated gamer 🎮. I find that my passion for storytelling in anime and the creativity in video games fuels my drive for innovative and engaging web development. Always eager to learn and grow, I’m constantly exploring new trends in technology and design.
 
 ## 🌐 Socials:
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/alex_buelvas) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/alexis-buelvas) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@Alex_Buelvas92)
+[![Email](https://img.shields.io/badge/Email%20-%2300AFF0.svg?&style=for-the-badge&logo=Skype&logoColor=white")](alexjesus-4856@hotmail.com)
 
 # 💻 Tech Stack:
 
