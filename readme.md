@@ -1,4 +1,4 @@
-# 💫 About Me:
+# <h1 align="center"><b>Hi , I'm Alexis Buelvas </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 🧤 I'm React Front End web and developer with a passion on selflearning, video games, anime and music<br>📱 shoot me a Email or add me on linkedin, you can follow me on Twitter or Instagram<br/>
 Email: Alexjesus-4856@hotmail.com
