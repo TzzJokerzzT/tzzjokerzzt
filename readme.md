@@ -63,6 +63,9 @@
   </ul>
 </div>
 
+## <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2pianBrZng3emxzN3RtejNydW5ua25jN3oxcjZobmYyY2s3YXI0dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/cOfwtFobGCLJBU3DNn/giphy.gif" width="30" /> My playlist:
+[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/playlist/18CBQAXVCIDXckD2ssC5Mw)
+
 
 <!-- <p align="center" > 
   <a href="https://skillicons.dev" target="_blank" >
@@ -85,11 +88,9 @@
   </tr>
 </table>
 
-## <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXBvdG1hNjlmNW16MWo0OXBnbm5ucDExeGVrdzUyOTN3OWljb3loeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/gAkSOKitTKTxhQnu15/giphy.gif" width="30" /> Latest Tweet
 
-<p align="center">
-<a href="https://github.com/VishwaGauravIn/github-twitter-card-embed"><img src="https://gtce.itsvg.in/api?username=alex_buelvas92&theme=radical&response=true&border=true&time=false&icon=user"/></a>
-</p>
+
+  
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
